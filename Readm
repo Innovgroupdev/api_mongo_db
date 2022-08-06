@@ -1,0 +1,6 @@
+Cette api est écrit avec du laravel et communique avec la base de données mongod
+Prérequis:
+- Installer php, version 8
+- Installer la base de données mongod
+- run php artisan migrate pour persister les tables vers la base de données
+- Aller dans le fichier .env pour changer la configuration(nom de base données, host)
